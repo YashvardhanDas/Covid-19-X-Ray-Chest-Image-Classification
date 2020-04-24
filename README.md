@@ -1,2 +1,2 @@
 # Covid-19-X-Ray-Chest-Image-Classification
-Binomial and multinomial classification of X-ray chest images of patients on the categorical basis of Covid-19, Pneumonia(Bacterial), Pneumonia(Viral) &amp; Non-infected cases
+This work is the class challenge of CS 542 (Machine Learning) involving binomial and multinomial classification of X-ray chest images of patients on the categorical basis of Covid-19, Pneumonia(Bacterial), Pneumonia(Viral) and Non-infected cases. The data we will use has been collected by Adrian Xu, combining the Kaggle Chest X-ray dataset with the COVID-19 Chest X-ray dataset collected by Dr. Joseph Paul Cohen of the University of Montreal.
